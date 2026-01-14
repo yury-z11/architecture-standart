@@ -1,0 +1,286 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Страница — 1" id="7gqgBPWPSY4eeWSg5APw">
+    <mxGraphModel dx="1523" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HmDT2p13Zj32z309z1kF-1" parent="1" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" value="" vertex="1">
+          <mxGeometry height="1938" width="400" x="1980" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-2" parent="1" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" value="" vertex="1">
+          <mxGeometry height="1937.7" width="400" x="1540" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-3" parent="1" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" value="" vertex="1">
+          <mxGeometry height="1940" width="400" x="1100" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-4" parent="1" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" value="" vertex="1">
+          <mxGeometry height="1940" width="400" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T1: Предоставление доступа для чтения данных о ставках (только для внутреннего доступа, ограниченные права) для системы передачи данных (5w+1w)" vertex="1">
+          <mxGeometry height="50" width="340" x="675" y="319.29999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T1(1): Подзадача: Определение прав доступа и настройка безопасности (2w+1w)" vertex="1">
+          <mxGeometry height="35.6" width="320" x="685" y="389.29999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T1(3): Подзадача: Проведение тестирования для проверки корректности получаемых данных (2w)" vertex="1">
+          <mxGeometry height="40" width="300" x="750" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T2(1): Подзадача: Проектирование API (определение endpoints, параметров, формата данных) (3w+1w)" vertex="1">
+          <mxGeometry height="50" width="360" x="1560" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T3(1): Подзадача: Разработка и тестирование API (4w+1w)" vertex="1">
+          <mxGeometry height="35" width="355" x="1995" y="404.35" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T3(2): Подзадача: Документирование API (1w)" vertex="1">
+          <mxGeometry height="30" width="355" x="2012.5" y="454.65" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-11" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" value="Q1 (Январь-Февраль-Март)" vertex="1">
+          <mxGeometry height="74.4" width="400" x="660" y="194.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-12" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" value="Q2 (Апрель-Май-Июнь)" vertex="1">
+          <mxGeometry height="74.4" width="400" x="1100" y="194.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-13" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" value="Q3 (Июль-Август-Сентябрь)" vertex="1">
+          <mxGeometry height="74.4" width="400" x="1540" y="194.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-14" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" value="Q4 (Октябрь-Ноябрь-Декабрь)" vertex="1">
+          <mxGeometry height="74.4" width="400" x="1980" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="АБС &lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Автоматизированная Банковская Система)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="260" width="160" x="460" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="Внутренний&lt;br&gt;&amp;nbsp;колл-центр&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;(Система Внутреннего Колл-центра)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="160" x="460" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="Система Передачи Данных" vertex="1">
+          <mxGeometry height="460" width="160" x="460" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="Партнерский колл-центр &lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Система Партнерского Колл-центра)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="360" width="160" x="460" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="База данных ставок &lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Rates DB)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="160" x="460" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=center;fontStyle=1;" value="Общие задачи" vertex="1">
+          <mxGeometry height="280" width="160" x="460" y="1950" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T4: Интеграция с системой передачи данных (через базу данных или напрямую с БД АБС, в зависимости от выбранного решения) для получения и отображения актуальных ставок. (3w+4w)" vertex="1">
+          <mxGeometry height="70" width="360" x="670" y="605.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T4(1): Подзадача: Разработка механизма получения данных о ставках из указанного источника (3w+1w)" vertex="1">
+          <mxGeometry height="40" width="340" x="700" y="685.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T4(2): Подзадача: Разработка пользовательского интерфейса для отображения ставок операторам (2w)" vertex="1">
+          <mxGeometry height="50" width="330" x="1140" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T4(3): Подзадача: Тестирование интеграции и отображения (2w+3w)" vertex="1">
+          <mxGeometry height="50" width="265" x="727.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T6: Интеграция с API АБС для получения ставок по депозитам. (3w+1w)" vertex="1">
+          <mxGeometry height="40" width="340" x="1992.5" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T6(1): Подзадача: Замена текущего механизма получения ставок на вызов API АБС (2w+1w)" vertex="1">
+          <mxGeometry height="55" width="240" x="2030" y="667.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T6(2): Подзадача: Тестирование интеграции с API (1w)" vertex="1">
+          <mxGeometry height="40" width="230" x="2130" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T7: Разработка микросервиса на Java Spring Boot (6w)" vertex="1">
+          <mxGeometry height="30" width="380" x="670" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T7(1): Подзадача: Настройка окружения разработки (1w)" vertex="1">
+          <mxGeometry height="35" width="360" x="680" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T7(2): Подзадача: Создание структуры проекта (1w)" vertex="1">
+          <mxGeometry height="30.6" width="340" x="690" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T7(3): Подзадача: Базовая настройка и первичное тестирование (4w)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="690" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T8: Реализация логики получения данных из АБС(3w)" vertex="1">
+          <mxGeometry height="30.6" width="360" x="1110" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T8(1): Подзадача: Разработка кода для подключения к базе данных АБС (1w)" vertex="1">
+          <mxGeometry height="39.4" width="360" x="1120" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T8(2): Подзадача: Разработка запросов для получения данных о ставках (2w)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1130" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T9: Реализация логики формирования файла (2w)" vertex="1">
+          <mxGeometry height="35" width="380" x="1110" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T9(2): Подзадача: Разработка кода для формирования файла (1w)" vertex="1">
+          <mxGeometry height="36" width="320" x="1145" y="1059" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T10: Реализация логики передачи файла (3w)" vertex="1">
+          <mxGeometry height="35" width="360" x="1110" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T10(1): Подзадача: Настройка SFTP-сервера или выбор облачного хранилища (1w)" vertex="1">
+          <mxGeometry height="40" width="360" x="1130" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T10(2): Подзадача: Разработка кода для передачи файла (2w)" vertex="1">
+          <mxGeometry height="40" width="360" x="1130" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T11: Развертывание в инфраструктуре банка (3w)" vertex="1">
+          <mxGeometry height="39.4" width="380" x="1550" y="945.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T11(1): Подзадача: Подготовка инфраструктуры для развертывания (1w)" vertex="1">
+          <mxGeometry height="40" width="360" x="1560" y="1004.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T11(2): Подзадача: Развертывание микросервиса (2w)" vertex="1">
+          <mxGeometry height="35" width="360" x="1570" y="1064.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T18: Мониторинг и поддержка" vertex="1">
+          <mxGeometry height="35" width="380" x="1990" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T18(1): Подзадача: Настройка мониторинга микросервиса (2w)" vertex="1">
+          <mxGeometry height="40.3" width="360" x="2000" y="994.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T18(2): Подзадача: Разработка документации для поддержки (2w)" vertex="1">
+          <mxGeometry height="35" width="375" x="1995" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T12: Разработка логики получения файла со ставками (3w)" vertex="1">
+          <mxGeometry height="35" width="380" x="1550" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T12(1): Подзадача: Настройка доступа к источнику данных (1w)" vertex="1">
+          <mxGeometry height="30" width="360" x="1560" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T12(2): Подзадача: Разработка кода для скачивания файла (2w)" vertex="1">
+          <mxGeometry height="30" width="370" x="1560" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T13: Разработка логики импорта данных из файла (3w)" vertex="1">
+          <mxGeometry height="29.2" width="380" x="1550" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T13(1): Подзадача: Разработкакода для парсинга файла CSV/Excel (1w)" vertex="1">
+          <mxGeometry height="40.8" width="360" x="1560" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T13(2): Подзадача: Разработка кода для импорта данных в базу данных (2w)" vertex="1">
+          <mxGeometry height="40" width="360" x="1560" y="1580.8" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T14: Разработка UI для отображения ставок (3w)" vertex="1">
+          <mxGeometry height="30.7" width="380" x="1990" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T14(1): Подзадача: Разработка экрана для отображения ставок операторам (3w)" vertex="1">
+          <mxGeometry height="35" width="360" x="2000" y="1405.7" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T15: Обучение сотрудников (1w)" vertex="1">
+          <mxGeometry height="30" width="380" x="1990" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T15(1): Подзадача: Подготовка учебных материалов (0.5w)" vertex="1">
+          <mxGeometry height="30" width="360" x="2000" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T15(2): Подзадача: Проведение обучения (0.5w)" vertex="1">
+          <mxGeometry height="30" width="360" x="2000" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T16: Создание базы данных для хранения ставок (3w)" vertex="1">
+          <mxGeometry height="40" width="380" x="670" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T16(1): Определение структуры таблиц и полей (1w)" vertex="1">
+          <mxGeometry height="29.2" width="360" x="680" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T16(2): Настройка прав доступа (1w)" vertex="1">
+          <mxGeometry height="30" width="360" x="680" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T16(3): Первичное наполнение и тестирование (1w)" vertex="1">
+          <mxGeometry height="30" width="360" x="680" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T17: Тестирование и Интеграция (MVP) (3w)" vertex="1">
+          <mxGeometry height="35" width="380" x="1550" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T17(1): Подзадача: Разработка тестовых сценариев 1w&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="360" x="1560" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T17(2): Подзадача: Проведение тестирования, исправление дефектов 3w&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1560" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T17: Тестирование и Интеграция (MVP) (4w)" vertex="1">
+          <mxGeometry height="35" width="380" x="1990" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T17(3): Подзадача: Финальное тестирование и интеграция - 3w" vertex="1">
+          <mxGeometry height="30" width="360" x="2000" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T18: Мониторинг и Поддержка (MVP) (4w)" vertex="1">
+          <mxGeometry height="30" width="380" x="1990" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T18(1): Подзадача: Настройка мониторинга микросервиса (2w)" vertex="1">
+          <mxGeometry height="30" width="360" x="2000" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-68" edge="1" parent="1" source="HmDT2p13Zj32z309z1kF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HmDT2p13Zj32z309z1kF-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T18(2): Подзадача: Разработка документации для поддержки (2w)" vertex="1">
+          <mxGeometry height="30" width="380" x="1990" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T2: Разработка API для получения ставок по депозитам." vertex="1">
+          <mxGeometry height="30" width="350" x="1560" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T5: UI для отображения ставок (MVP) (2w)" vertex="1">
+          <mxGeometry height="40" width="340" x="1120" y="677.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T5(1): Разработка UI для отображения ставок (2w)" vertex="1">
+          <mxGeometry height="40" width="320" x="1150" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;" value="T3: Разработка и тестирование API (Цель) (4w+1w)" vertex="1">
+          <mxGeometry height="30" width="350" x="1997.5" y="355.35" as="geometry" />
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-74" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="2470" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-75" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="820" as="sourcePoint" />
+            <mxPoint x="2460" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-76" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="1300" as="sourcePoint" />
+            <mxPoint x="2460" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-77" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="1680" as="sourcePoint" />
+            <mxPoint x="2460" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-78" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="1940" as="sourcePoint" />
+            <mxPoint x="2460" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-79" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1960" y="2254.705882352941" as="sourcePoint" />
+            <mxPoint x="1960" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-80" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1080" y="2254.705882352941" as="sourcePoint" />
+            <mxPoint x="1080" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-81" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="2254.705882352941" as="sourcePoint" />
+            <mxPoint x="640" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-82" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1520" y="2254.705882352941" as="sourcePoint" />
+            <mxPoint x="1520" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmDT2p13Zj32z309z1kF-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;verticalAlign=top;" value="T1(2): Настройка инструментария для доступа. Клиентское ПО (1w)" vertex="1">
+          <mxGeometry height="40" width="300" x="715" y="439.29999999999995" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
